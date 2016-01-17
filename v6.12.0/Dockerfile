@@ -1,13 +1,8 @@
-FROM golang
+FROM debian:jessie
 
 MAINTAINER Lothar Wieske <lothar.wieske@gmail.com>
 
-ENV PATH /root/bin:$PATH
+ADD "https://cli.run.pivotal.io/stable?version=6.12.0&release=linux64-binary"" /tmp/
 
-RUN set -x \
-  && mkdir /root/bin \
-  && cd /root/bin \
-  && curl --silent http://go-cli.s3-website-us-east-1.amazonaws.com/releases/v6.12.0/cf-linux-amd64.tgz | \
-     tar xfz  -
-
-CMD /bin/bash
+RUN cat /tmp/stable | tar xfz - -C /usr/bin                              && \
+    chmod ugo+rx /usr/bin/cf
