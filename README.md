@@ -16,15 +16,15 @@
 
 ***
 
-| Image                     | Badge | Build Details |
-| ------------------------- | ----- | ------------- |
-| lwieske/cloudfoundrycli:latest | [![](https://badge.imagelayers.io/lwieske/cloudfoundrycli:latest.svg)](https://imagelayers.io/?images=lwieske/cloudfoundrycli:latest) | [b4pfqjvfpoodt9g6d4uvbnj](https://hub.docker.com/r/lwieske/cloudfoundrycli/builds/b4pfqjvfpoodt9g6d4uvbnj/) |
-| lwieske/cloudfoundrycli:6.15.0 | [![](https://badge.imagelayers.io/lwieske/cloudfoundrycli:6.15.0.svg)](https://imagelayers.io/?images=lwieske/cloudfoundrycli:6.15.0) |
-| lwieske/cloudfoundrycli:6.14.0 | [![](https://badge.imagelayers.io/lwieske/cloudfoundrycli:6.14.0.svg)](https://imagelayers.io/?images=lwieske/cloudfoundrycli:6.14.0) |
-| lwieske/cloudfoundrycli:6.13.0 | [![](https://badge.imagelayers.io/lwieske/cloudfoundrycli:6.13.0.svg)](https://imagelayers.io/?images=lwieske/cloudfoundrycli:6.13.0) |
-| lwieske/cloudfoundrycli:6.112.0 | [![](https://badge.imagelayers.io/lwieske/cloudfoundrycli:6.12.0.svg)](https://imagelayers.io/?images=lwieske/cloudfoundrycli:6.12.0) |
-| lwieske/cloudfoundrycli:6.11.0 | [![](https://badge.imagelayers.io/lwieske/cloudfoundrycli:6.11.0.svg)](https://imagelayers.io/?images=lwieske/cloudfoundrycli:6.11.0) |
-| lwieske/cloudfoundrycli:6.10.0 | [![](https://badge.imagelayers.io/lwieske/cloudfoundrycli:6.10.0.svg)](https://imagelayers.io/?images=lwieske/cloudfoundrycli:6.10.0) |
-| lwieske/cloudfoundrycli:6.9.0 | [![](https://badge.imagelayers.io/lwieske/cloudfoundrycli:6.9.0.svg)](https://imagelayers.io/?images=lwieske/cloudfoundrycli:6.9.0) |
-| lwieske/cloudfoundrycli:6.8.0 | [![](https://badge.imagelayers.io/lwieske/cloudfoundrycli:6.8.0.svg)](https://imagelayers.io/?images=lwieske/cloudfoundrycli:6.8.0) |
-| lwieske/cloudfoundrycli:6.7.0 | [![](https://badge.imagelayers.io/lwieske/cloudfoundrycli:6.7.0.svg)](https://imagelayers.io/?images=lwieske/cloudfoundrycli:6.7.0) |
+| Image                     | Badge |
+| ------------------------- | ----- |
+| lwieske/cloudfoundrycli:latest | [![](https://img.shields.io/imagelayers/image-size/lwieske/cloudfoundrycli/latest.svg)]() |
+| lwieske/cloudfoundrycli:6.15.0 | [![](https://img.shields.io/imagelayers/image-size/lwieske/cloudfoundrycli/v6.15.0.svg)]() |
+| lwieske/cloudfoundrycli:6.14.0 | [![](https://img.shields.io/imagelayers/image-size/lwieske/cloudfoundrycli/v6.14.0.svg)]() |
+| lwieske/cloudfoundrycli:6.13.0 | [![](https://img.shields.io/imagelayers/image-size/lwieske/cloudfoundrycli/v6.13.0.svg)]() |
+| lwieske/cloudfoundrycli:6.12.0 | [![](https://img.shields.io/imagelayers/image-size/lwieske/cloudfoundrycli/v6.12.0.svg)]() |
+| lwieske/cloudfoundrycli:6.11.0 | [![](https://img.shields.io/imagelayers/image-size/lwieske/cloudfoundrycli/v6.11.0.svg)]() |
+| lwieske/cloudfoundrycli:6.10.0 | [![](https://img.shields.io/imagelayers/image-size/lwieske/cloudfoundrycli/v6.10.0.svg)]() |
+| lwieske/cloudfoundrycli:6.9.0 | [![](https://img.shields.io/imagelayers/image-size/lwieske/cloudfoundrycli/v6.9.0.svg)]() |
+| lwieske/cloudfoundrycli:6.8.0 | [![](https://img.shields.io/imagelayers/image-size/lwieske/cloudfoundrycli/v6.8.0.svg)]() |
+| lwieske/cloudfoundrycli:6.7.0 | [![](https://img.shields.io/imagelayers/image-size/lwieske/cloudfoundrycli/v6.7.0.svg)]() |
