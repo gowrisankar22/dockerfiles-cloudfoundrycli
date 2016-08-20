@@ -3,7 +3,7 @@
 rm -rf v*
 
 # Full Version Strings
-versions=( 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 )
+versions=( 10 11 12 13 14 15 16 17 18 19 20 21 )
 
 length=${#versions[@]}
 
